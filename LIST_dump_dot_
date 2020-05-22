@@ -1,0 +1,7 @@
+digraph G
+{
+rankdir = LR;
+node[ color = "goldenrod1",fontsize = 10, shape = "rect" ];
+LIST[ shape = record, label = " name: | { data:[0x56386962f730] | next:[0x563869631b40] | prev:[0x563869631f50] } | 
+{ head:0 | tail:0 | free:1 } | { size:0 | max_size:127 }" ];
+}
